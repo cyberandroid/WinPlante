@@ -1,0 +1,14 @@
+D:\vstudio 2013\Projects\WinPlante\WinPlante\bin\Debug\WinPlante.exe.config
+D:\vstudio 2013\Projects\WinPlante\WinPlante\bin\Debug\WinPlante.exe.manifest
+D:\vstudio 2013\Projects\WinPlante\WinPlante\bin\Debug\WinPlante.application
+D:\vstudio 2013\Projects\WinPlante\WinPlante\bin\Debug\WinPlante.exe
+D:\vstudio 2013\Projects\WinPlante\WinPlante\bin\Debug\WinPlante.pdb
+D:\vstudio 2013\Projects\WinPlante\WinPlante\bin\Debug\log4net.dll
+D:\vstudio 2013\Projects\WinPlante\WinPlante\obj\Debug\WinPlante.winplante.resources
+D:\vstudio 2013\Projects\WinPlante\WinPlante\obj\Debug\WinPlante.Properties.Resources.resources
+D:\vstudio 2013\Projects\WinPlante\WinPlante\obj\Debug\WinPlante.csproj.GenerateResource.Cache
+D:\vstudio 2013\Projects\WinPlante\WinPlante\obj\Debug\WinPlante.exe.manifest
+D:\vstudio 2013\Projects\WinPlante\WinPlante\obj\Debug\WinPlante.application
+D:\vstudio 2013\Projects\WinPlante\WinPlante\obj\Debug\WinPlante.exe
+D:\vstudio 2013\Projects\WinPlante\WinPlante\obj\Debug\WinPlante.pdb
+D:\vstudio 2013\Projects\WinPlante\WinPlante\obj\Debug\WinPlante.csprojResolveAssemblyReference.cache
