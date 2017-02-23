@@ -12,3 +12,6 @@ D:\vstudio 2013\Projects\WinPlante\WinPlante\obj\Debug\WinPlante.application
 D:\vstudio 2013\Projects\WinPlante\WinPlante\obj\Debug\WinPlante.exe
 D:\vstudio 2013\Projects\WinPlante\WinPlante\obj\Debug\WinPlante.pdb
 D:\vstudio 2013\Projects\WinPlante\WinPlante\obj\Debug\WinPlante.csprojResolveAssemblyReference.cache
+D:\vstudio 2013\Projects\WinPlante\bin\Debug\WinPlante.exe.config
+D:\vstudio 2013\Projects\WinPlante\obj\Debug\WinPlante.exe
+D:\vstudio 2013\Projects\WinPlante\obj\Debug\WinPlante.pdb

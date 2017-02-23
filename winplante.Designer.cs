@@ -593,7 +593,7 @@
             this.groupBox2.Size = new System.Drawing.Size(274, 134);
             this.groupBox2.TabIndex = 67;
             this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Inoformations";
+            this.groupBox2.Text = "Informations";
             // 
             // lbltemps
             // 
