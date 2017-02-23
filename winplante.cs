@@ -788,7 +788,7 @@ namespace WinPlante
         //rafraishissement de la liste des plantes
         private void btnupdatePlante_Click(object sender, EventArgs e)
         {
-            log.Info("******* RAFRAICHISSEMENT DE LA LISTE DES PLANTES ******* ");
+            log.Info("------- RAFRAICHISSEMENT DE LA LISTE DES PLANTES *------ ");
             listboxplante.Items.Clear();
             ListePLante();
         }
